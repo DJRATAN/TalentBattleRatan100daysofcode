@@ -10,5 +10,5 @@ public class RatanPrajapati_day5 {
         }else{
             System.out.println("Odd");
         }
-    }
+    } 
 }
