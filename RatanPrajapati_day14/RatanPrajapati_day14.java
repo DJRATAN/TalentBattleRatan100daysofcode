@@ -11,4 +11,4 @@ public class RatanPrajapati_day14 {
         }
         System.out.println(reverse);
     }
-}
+} 
