@@ -12,4 +12,4 @@ class RatanPrajapati_day2 {
             System.out.println("Not an alphabet");
         }
     }
-}
+} 
