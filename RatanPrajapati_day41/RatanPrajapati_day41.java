@@ -8,7 +8,7 @@ public class RatanPrajapati_day41 {
             int i = 0;
             while (i + 1 < first.length() && first.charAt(i + 1) == '*')
                 i++;
-            first = first.substring(i);
+            first = first.substring(i); 
         }
         if (first.length() > 1 && first.charAt(0) == '*' &&
                 second.length() == 0)
