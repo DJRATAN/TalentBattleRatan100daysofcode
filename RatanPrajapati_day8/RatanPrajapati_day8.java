@@ -6,7 +6,7 @@ public class RatanPrajapati_day8 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of a, b and c : ");
         int a = sc.nextInt();
-        int b = sc.nextInt();
+        int b = sc.nextInt(); 
         int c = sc.nextInt();
         double root1 = 0, root2 = 0;
         double descriminant = b * b - 4 * a * c;
