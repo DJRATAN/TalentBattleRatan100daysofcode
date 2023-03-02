@@ -10,10 +10,10 @@ class Ratan_day1 {
                 System.out.println("Vowel");
             } else {
                 System.out.println("Consonant");
-            }
+            } 
         } else {
             System.out.println("Invalid Input");
 
-        }
+        } 
     }
 }
