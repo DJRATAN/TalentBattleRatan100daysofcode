@@ -12,4 +12,4 @@ public class RatanPrajapati_day40 {
         String newStr = st1.replace(st2, st3);
         System.out.println("The new string :" + newStr);
     }
-}
+} 
