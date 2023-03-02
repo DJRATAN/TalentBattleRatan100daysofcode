@@ -13,4 +13,4 @@ class RatanPrajapati_day4 {
             System.out.println("Neither positive nor negative");
         }
     }
-}
+} 
