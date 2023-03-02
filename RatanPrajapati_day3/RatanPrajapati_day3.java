@@ -8,3 +8,4 @@ public class RatanPrajapati_day3 {
         System.out.println(ascii_value);
     }
 }
+ 
