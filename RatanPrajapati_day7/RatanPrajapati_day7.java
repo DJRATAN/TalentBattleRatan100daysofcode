@@ -11,7 +11,7 @@ public class RatanPrajapati_day7 {
             System.out.println("31");
         } else if (month == 4 || month == 6 || month == 9 || month == 11) {
             System.out.println("30");
-        } else if (month == 2) {
+        } else if (month == 2) { 
             if (year % 4 == 0) {
                 if (year % 100 == 0) {
                     if (year % 400 == 0) {
