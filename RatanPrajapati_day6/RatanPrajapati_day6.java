@@ -15,5 +15,5 @@ public class RatanPrajapati_day6 {
         } else {
             System.out.println("This point lies in fourth quadrant.");
         }
-    }
+    } 
 }
