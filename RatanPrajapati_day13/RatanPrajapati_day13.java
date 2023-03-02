@@ -12,4 +12,4 @@ public class RatanPrajapati_day13 {
         }
         System.out.println(sum);
     }
-}
+} 
