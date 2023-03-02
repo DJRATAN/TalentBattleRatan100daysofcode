@@ -11,7 +11,7 @@ public class RatanPrajapati_day44 {
         for (int i = 0; i < size; i++) {
             arr[i] = sc.nextInt();
             if (arr[i] % 2 == 0) {
-                even++;
+                even++; 
             } else {
                 odd++;
             }
