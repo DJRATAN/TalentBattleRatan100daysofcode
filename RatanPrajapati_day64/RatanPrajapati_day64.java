@@ -9,7 +9,7 @@ public class RatanPrajapati_day64 {
             if ((st.contains("010")) || (st.contains("101"))) {
                 System.out.println("Good");
             } else {
-                System.out.println("Bad");
+                System.out.println("Bad"); 
             }
         }
     }
