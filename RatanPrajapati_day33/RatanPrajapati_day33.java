@@ -18,6 +18,6 @@ public class RatanPrajapati_day33 {
             System.out.println("Palindrome");
         } else {
             System.out.println("Not a Palindrome");
-        }
+        } 
     }
 }
