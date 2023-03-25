@@ -20,4 +20,4 @@ public class RatanPrajapati_day53 {
         }
         System.out.println(ans);
     }
-}
+} 
