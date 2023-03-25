@@ -12,4 +12,4 @@ public class RatanPrajapati_day30 {
         }
         System.out.println(count);
     }
-}
+} 
